@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mari-moreira-pilates.run.app/sitemap.xml
