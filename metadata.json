@@ -1,0 +1,7 @@
+{
+  "name": "Mari Moreira Pilates",
+  "description": "Estúdio de Pilates em Campinas especializado em mulheres, gestantes e pós-parto. Flexibilidade, força e resistência em um ambiente premium.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
